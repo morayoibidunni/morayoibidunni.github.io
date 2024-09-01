@@ -1,0 +1,9 @@
+---
+title:  "My First Post"
+---
+
+# Welcome
+
+**Hello world**, this is my first blog post.
+
+I hope you like it!
