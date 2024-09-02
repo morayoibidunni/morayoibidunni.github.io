@@ -265,6 +265,11 @@ pagination:
     before: 2
     after: 2
 
+# Configure portfolio collection
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Plugins (previously gems:)
 plugins:
@@ -335,4 +340,22 @@ defaults:
       related: true
       show_date: true
       date_format: "%d-%b-%Y"
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
