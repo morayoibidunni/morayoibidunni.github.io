@@ -175,6 +175,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _docs
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -340,7 +342,6 @@ defaults:
       related: true
       show_date: true
       date_format: "%d-%b-%Y"
-defaults:
   # _pages
   - scope:
       path: ""
@@ -348,7 +349,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-defaults:
   # _portfolio
   - scope:
       path: ""
