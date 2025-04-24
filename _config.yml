@@ -143,6 +143,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/morayo.ibidunniportfolio/"
       target: _blank
+    #- label: "Substack"
+    #  icon: 
+    #  url: "https://morayoibidunni.substack.com/"
 
 # Site Footer
 footer:
