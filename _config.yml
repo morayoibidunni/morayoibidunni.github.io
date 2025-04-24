@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Morayo Omotesho | PR & Marketing"
+title                    : "Morayo Ibidunni | PR & Marketing"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Morayo Omotesho"
+name                     : "Morayo Ibidunni"
 description              : "A portfolio showcasing my PR & Marketing work as a University of Cambridge graduate and alumna."
 url                      : "https://morayoomotesho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "morayoomotesho/morayoomotesho.github.io"
 teaser                   : "/assets/images/cam.jpeg"
 logo                     : "/assets/images/logo.jpeg"
-masthead_title           : "Morayo Omotesho"
+masthead_title           : "Morayo Ibidunni"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : true
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Morayo Omotesho"
+  name             : "Morayo Ibidunni"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "PR & Marketing Consultant. University of Cambridge Graduate."
   location         : "London, UK"
@@ -124,7 +124,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:morayoofficial559@gmail.com"
+      url: "mailto:morayoofficial559@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -135,10 +135,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-      target: _blank
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/morayo.ibidunniportfolio/"
