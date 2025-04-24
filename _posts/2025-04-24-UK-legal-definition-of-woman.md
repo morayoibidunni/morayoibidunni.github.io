@@ -23,10 +23,10 @@ Instead of entering the debate, some brands may choose to create forums for dial
 3. **Audit Language Across Touchpoints**\
 The evolution of gender-related language is ongoing. Brands can benefit from auditing their content—websites, forms, campaigns—to ensure respectful and clear language, while being legally compliant in regions like the UK.
 
-### Silence vs. Statement — The Risk Spectrum\
+### Silence vs. Statement — The Risk Spectrum
 It’s a delicate balance. Silence can offer safety from backlash, but it can also be interpreted as indifference. Conversely, making a statement—whether in support of legal clarity or broader inclusivity—carries the risk of alienating segments of your audience. Brands must weigh their historical voice, audience expectations, and internal readiness to respond to any fallout.
 
-### Navigating the Moment with Empathy and Awareness\
+### Navigating the Moment with Empathy and Awareness
 This ruling marks a significant moment in the UK’s legal landscape. For brands, the key is not to react hastily, but to reflect intentionally. By aligning communications with their core values, being mindful of legal shifts, and practicing empathetic leadership, brands can maintain integrity without necessarily taking a side.
 
 As public conversations evolve, so too must brand strategies—rooted in clarity, consistency, and compassion.
