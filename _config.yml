@@ -120,11 +120,7 @@ author:
   email            : "morayoofficial559@gmail.com"
   linkedin         : "moray0"
   Instagram        : "morayo.ibidunniportfolio"
-  github           : "morayoomotesho"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:morayoofficial559@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -153,9 +149,6 @@ footer:
       target: _blank
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       # url:
       target: _blank
     - label: "GitLab"
