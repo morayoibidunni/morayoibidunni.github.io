@@ -1,5 +1,7 @@
 ---
 title: "What the UK’s Legal Definition of ‘Woman’ Means for Brands: A Communications Perspective"
+header:
+  teaser: "assets/images/sup-court.jpeg"
 toc: false
 ---
 On April 16, 2025, the UK’s Supreme Court ruled that, under specific equality laws, only biological women meet the legal definition of “woman.” While the decision is specific to a legal case involving women-only spaces, its ripple effects could extend far beyond the courtroom. For brands—especially those engaged in purpose-led marketing, DE&I initiatives, and community engagement—the ruling introduces new layers of complexity in navigating gender identity, representation, and public messaging.
