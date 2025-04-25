@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - blog
-toc: true
+toc: false
 ---
 
 The Cambridge Dictionary describes the word 'new' as recently created or having started to exist recently. Synonyms include words such as ‘novel’, ‘innovative’ and even ‘brand new’. To be completely honest, almost nothing I do or say here is going to be that; and I say this for a few reasons.
