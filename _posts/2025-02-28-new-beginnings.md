@@ -1,7 +1,5 @@
 ---
 title: "New Beginnings..."
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
   - Blog
 tags:
