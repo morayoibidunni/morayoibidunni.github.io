@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-toc: "false"
+toc: false
 ---
 
 As a Cambridge graduate with a multidisciplinary skill set and a passion for storytelling, Morayo brings fresh perspectives and vibrant energy to the team. She has honed her expertise through internships and training in PR, digital marketing, and brand strategy, working with global brands such as IHG Hotels & Resorts and supporting high-profile campaigns and events like Wilderness Festival and Lollapalooza.
